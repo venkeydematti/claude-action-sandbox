@@ -5,3 +5,9 @@ function greet(name) {
 function farewell(name) {
   console.log("Goodbye, " + name);
 }
+
+function multiply ( a, b) {
+  return a * b;
+}
+
+multiply(2,4);

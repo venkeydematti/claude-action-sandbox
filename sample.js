@@ -6,8 +6,8 @@ function farewell(name) {
   console.log("Goodbye, " + name);
 }
 
-function testing ( a, b) {
+function multiply ( a, b) {
   return a * b;
 }
 
-testing(2,4);
+multiply(2,4);
